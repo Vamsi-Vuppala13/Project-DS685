@@ -40,11 +40,6 @@ The Visual SLAM pipeline was implemented using the following components:
 
 The pipeline was tested on 50 synthetic KITTI-like frames. The system was able to estimate the camera trajectory across the frame sequence and generate a trajectory plot.
 
-Output file:
-
-```text
-trajectory.png
-
 ## Task 2 — Visual SLAM on My Indoor Space
 
 ### Objective
